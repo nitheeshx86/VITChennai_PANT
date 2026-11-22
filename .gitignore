@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+
+# Blender backups
+*.blend1
+
+# Generated locally by the tests and the eyes.py CLI
+debug/
+output/
+
+# MakeHuman / MPFB assets downloaded for build_scene.py (see README)
+assets/downloads/
+assets/mh_assets/
