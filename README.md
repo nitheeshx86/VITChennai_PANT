@@ -61,7 +61,7 @@ that are exact by construction.
 
 Measured by the automated test suite on the final scene, not assumed.
 
-| What | Result |
+| Metric | Result |
 | --- | --- |
 | Pupil shift, Left / Right / Up / Down | **15.1 – 15.4 px**, right direction, both eyes |
 | Reset returns to the start | exact |
