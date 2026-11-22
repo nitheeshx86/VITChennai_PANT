@@ -57,6 +57,12 @@ that are exact by construction.
 - **Exact labels.** Every 1024 × 1024 render ships with eye rotations, projected 2D pupil
   centres and the camera matrix `P = K[R|t]`, plus 40 extra labels.
 
+<div align="center">
+
+![Reset, Left, Right, Up, Down](Submission_Package/direction_check/directions.gif)
+
+</div>
+
   ## Results
 
 Measured by the automated test suite on the final scene, not assumed.
